@@ -90,12 +90,3 @@ Handling missing and inconsistent categorical data
 Tuning neural network layers to avoid underfitting
 
 Ensuring model generalizes across real-world employee data
-
-🔮 Future Enhancements
-Integrate more advanced models like XGBoost or LightGBM
-
-Improve UI with real-time visual feedback
-
-Deploy to cloud platform (e.g., Heroku, AWS)
-
-Add model explainability (e.g., SHAP or LIME)
